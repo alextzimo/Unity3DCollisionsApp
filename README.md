@@ -1,0 +1,1 @@
+Project #2 for MYY702 Computer Graphics and Interaction Systems course in CSE, UoI. Developed a game-like Application in Unity3D environment using C# scripts, focusing on object movement and camera control. 
